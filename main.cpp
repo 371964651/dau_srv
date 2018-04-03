@@ -90,9 +90,9 @@ int main(int argc, char *argv[])
     QTextCodec::setCodecForLocale(tc);
 
     Init_Key();
-    cout<<"1111"<<endl;
+    cout<<"11111111"<<endl;
     show_something_in_first_line(1,"  3434433434");
-    cout<<"2222"<<endl;
+    cout<<"22222222"<<endl;
     int fdLCD = Init_Lcd();
 
     if (fdLCD <=0)
