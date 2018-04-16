@@ -94,6 +94,7 @@ int main(int argc, char *argv[])
     show_something_in_first_line(1,"  3434433434");
 
     cout<<"22222222"<<endl;
+
     int fdLCD = Init_Lcd();
 
     if (fdLCD <=0)
@@ -107,7 +108,6 @@ int main(int argc, char *argv[])
    show_something_in_second_line(fdLCD, "255.255.255.0");
     Uninit_Lcd(fdLCD);
 */
-
 
      //* TTS Play
     /*
