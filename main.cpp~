@@ -92,7 +92,6 @@ int main(int argc, char *argv[])
     Init_Key();
     cout<<"11111111"<<endl;
     show_something_in_first_line(1,"  3434433434");
-
     cout<<"22222222"<<endl;
     int fdLCD = Init_Lcd();
 
